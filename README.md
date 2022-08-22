@@ -27,6 +27,7 @@ $ run
 
 [-] HTML5, CSS3, JavaScript, React 
 [-] Java, Python, SQL
+[-] Manage DNS, SSL and Website
 
 [+] OS: Linux -> Kali / Ubuntu
                    

@@ -1,5 +1,5 @@
 ````
-kali@kali:~$ python3 /home/drinksomewater/readme.py
+kali@kali:~$ python3 /home/dr1nkwat3r/readme.py
 
                                 ,d                          
                                 88                          

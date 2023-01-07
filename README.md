@@ -25,7 +25,7 @@ $ run
 
 [+] Scanned 7 of 7 (100% complete)
 
-[-] HTML5, CSS3, JavaScript, React, Spring, REST API
+[-] HTML5, CSS3, JavaScript, React, Spring, REST API, JDA (Discord Bot)
 [-] Java, Python, SQL
 [-] Manage DNS, SSL, Network, Firewall and Website
 

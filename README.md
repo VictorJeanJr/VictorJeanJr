@@ -26,7 +26,7 @@ $ run
 [+] Scanned 7 of 7 (100% complete)
 
 [-] HTML5, CSS3, JavaScript, React, Spring, REST API, JDA (Discord Bot), Bash Script
-[-] Java, Python, SQL
+[-] Java, Kotlin, Python, SQL
 [-] Manage DNS, SSL, Network, Firewall and Website
 
 [+] OS: Linux -> Kali / Ubuntu

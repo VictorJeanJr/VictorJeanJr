@@ -25,10 +25,15 @@ $ run
 
 [+] Scanned 7 of 7 (100% complete)
 
-[-] HTML5, CSS3, JavaScript, React, Spring, REST API, JDA (Discord Bot), Bash Script
-[-] Java, Kotlin, Python, SQL
+[-] REST API or WebSocket (HTTP or tcp) -> Spring Boot or JS
+[-] HTML5, CSS3, JavaScript, React
+[-] Java/Kotlin, Python, Bash Script
+
+[-] JDA -> Discord Bot
+[-] SQL, NoSQL -> MySQL, MongoDB
+
 [-] Manage DNS, SSL, Network, Firewall and Website
 
-[+] OS: Linux -> Kali / Ubuntu
+[+] OS: Linux -> Kali / Ubuntu | Win10
                    
 ````

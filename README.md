@@ -32,6 +32,8 @@ $ run
 [-] JDA -> Discord Bot
 [-] SQL, NoSQL -> MySQL, MongoDB
 
+[-] Experience AWS, Cloudflare and Google Cloud
+
 [-] Manage DNS, SSL, Network, Firewall and Website
 
 [+] OS: Linux -> Kali / Ubuntu | Win10

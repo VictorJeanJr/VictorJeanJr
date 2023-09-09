@@ -36,6 +36,6 @@ $ run
 
 [-] Manage DNS, SSL, Network, Firewall and Website
 
-[+] OS: Linux -> Kali / Ubuntu | Win10/ArchLinux
+[+] OS: Linux -> Kali / Ubuntu | Win10
                    
 ````

@@ -26,7 +26,7 @@ $ run
 [+] Scanned 7 of 7 (100% complete)
 
 [-] REST API or WebSocket (HTTP or tcp) -> Spring Boot or JavaScript
-[-] HTML5, CSS3, JavaScript, React
+[-] HTML5, CSS3, JavaScript, React, KVision with JS
 [-] Java/Kotlin, Python, Bash Script
 
 [-] JDA -> Discord Bot

@@ -25,12 +25,12 @@ $ run
 
 [+] Scanned 7 of 7 (100% complete)
 
-[-] REST API or WebSocket (HTTP or tcp) -> Spring Boot or JavaScript
-[-] HTML5, CSS3, JavaScript, React, KVision with JS
-[-] Java/Kotlin, Python, Bash Script
+[-] REST API or WebSocket (HTTP or tcp) -> Spring Boot, Ktor, Netty and JavaScript
+[-] Web Developer -> HTML5, CSS3, JavaScript, React and KVision with JS 
+[-] Programming languages -> Java/Kotlin (Principal), Typescript, Python, Bash Script
 
-[-] JDA -> Discord Bot
-[-] SQL, NoSQL -> MySQL, MongoDB
+[-] Discord Bot -> JDA
+[-] Database-> MySQL, SQLite, MongoDB and Redis
 
 [-] Experience AWS, Cloudflare and Google Cloud
 

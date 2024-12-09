@@ -25,7 +25,7 @@ $ run
 
 [+] Scanned 7 of 7 (100% complete)
 
-[-] REST API or WebSocket (HTTP or tcp) -> Spring Boot, Ktor, Netty and JavaScript
+[-] REST API or WebSocket (HTTP or tcp) -> Golang, Spring Boot, Ktor, Netty and JavaScript
 [-] Web Developer -> HTML5, CSS3, JavaScript, React (NextJS) and KVision with JS 
 [-] Programming languages -> Java/Kotlin (Principal), Typescript, Python, Bash Script
 
